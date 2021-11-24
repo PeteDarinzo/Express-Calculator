@@ -1,4 +1,4 @@
-const { mean, median, mode } = require("./calculator");
+const { mean, median, mode } = require("./functions");
 
 describe("Test the mean, median, and mode functions.", () => {
 
